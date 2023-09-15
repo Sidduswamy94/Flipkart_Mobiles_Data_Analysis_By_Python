@@ -1,0 +1,480 @@
+,Brand,Model,Price,Color,RAM (GB),ROM (GB),Rating,Battery (mAh),Display (inch),Camera,Processor
+0,realme,11x,15999,5G Purple Dawn,8,128.0,4.3,5000.0,2,64MP + 2MP | 8MP Front,Dimensity 6100+
+1,realme,11x,14999,5G Purple Dawn,6,128.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Dimensity 6100+
+2,realme,11x,14999,5G Midnight Black,6,128.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Dimensity 6100+
+3,realme,C53,10999,Champion Gold,6,64.0,4.4,5000.0,4,108MP + 2MP | 8MP Front,T612
+4,realme,11x,15999,5G Midnight Black,8,128.0,4.3,5000.0,2,64MP + 2MP | 8MP Front,Dimensity 6100+
+5,realme,C53,10999,Champion Black,6,64.0,4.4,5000.0,4,108MP + 2MP | 8MP Front,T612
+6,realme,C51,8999,Mint Green,4,64.0,4.6,5000.0,4,50MP + 0.08MP | 5MP Front,T612
+7,realme,C51,8999,Carbon Black,4,64.0,4.6,5000.0,4,50MP + 0.08MP | 5MP Front,T612
+8,realme,C53,9999,Champion Black,4,128.0,4.1,5000.0,4,108MP + 2MP | 8MP Front,T612
+9,realme,C53,9999,Champion Gold,4,128.0,4.1,5000.0,4,108MP + 2MP | 8MP Front,T612
+10,realme,C55,13999,Rainforest,8,128.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+11,realme,C55,13999,Rainy Night,8,128.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+12,realme,C55,11999,Rainforest,6,64.0,4.3,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+13,realme,C55,10999,Sunshower,4,64.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+14,realme,C55,10999,Rainforest,4,64.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+15,realme,C55,10999,Rainy Night,4,64.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+16,realme,C55,13999,Sunshower,8,128.0,4.4,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+17,realme,C55,11999,Sunshower,6,64.0,4.3,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+18,realme,C55,11999,Rainy Night,6,64.0,4.3,5000.0,2,64MP + 2MP | 8MP Front,Helio G88
+19,realme,C30,5999,Denim Black,2,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612
+20,realme,C30,6499,Denim Black,3,32.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612
+21,realme,C30,6499,Lake Blue,3,32.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612
+22,realme,10,14499,Clash White,8,128.0,4.3,5000.0,6.4,50MP + 2MP | 16MP Front,Mediatek Helio G99 Octa Core
+23,realme,10,10999,Rush Black,4,64.0,4.2,5000.0,6.4,50MP + 2MP | 16MP Front,Mediatek Helio G99 Octa Core
+24,realme,11,19999,5G Glory Gold,8,256.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Dimensity 6100+
+25,realme,11,18999,5G Glory Gold,8,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Dimensity 6100+
+26,realme,11,18999,5G Glory Black,8,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Dimensity 6100+
+27,realme,Narzo,11569,N53 Feather Gold,6,128.0,4.2,5000.0,4,50MP Rear,
+28,realme,Narzo,9889,N53 Feather Black,4,64.0,4.2,5000.0,4,50MP Rear,
+29,realme,Narzo,12999,N53 Feather Black,6,128.0,4.2,5000.0,4,50MP Rear,
+30,realme,Narzo,9622,N53 Feather Gold,4,64.0,4.2,5000.0,4,50MP Rear,
+31,realme,10,10999,Clash White,4,64.0,4.2,5000.0,6.4,50MP + 2MP | 16MP Front,Mediatek Helio G99 Octa Core
+32,realme,10,17999,Pro 5G Hyperspace,8,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+33,realme,10,17999,Pro 5G Dark Matter,8,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+34,realme,10,14499,Clash White,8,128.0,4.3,5000.0,6.4,50MP + 2MP | 16MP Front,Mediatek Helio G99 Octa Core
+35,realme,Narzo,10938,N55 Prime Blue,4,64.0,4.2,5000.0,2,64MP Rear,
+36,realme,10,16999,Pro 5G Nebula Blue,6,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+37,realme,10,16999,Pro 5G Dark Matter,6,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+38,realme,10,17999,Pro 5G Nebula Blue,8,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+39,realme,10,16999,Pro 5G Hyperspace,6,128.0,4.3,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+40,realme,10,14499,Rush Black,8,128.0,4.3,5000.0,6.4,50MP + 2MP | 16MP Front,Mediatek Helio G99 Octa Core
+41,realme,11,24999,Pro 5G Astral Black,8,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+42,realme,11,24999,Pro 5G Sunrise Beige,8,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+43,realme,11,27999,Pro 5G Astral Black,12,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+44,realme,11,29999,Pro+ 5G Oasis Green,12,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+45,realme,11,27999,Pro+ 5G Oasis Green,8,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+46,realme,Narzo,12790,N55 Prime Blue,6,128.0,4.3,5000.0,2,64MP Rear,
+47,realme,Narzo,12858,N55 Prime Black,6,128.0,4.3,5000.0,2,64MP Rear,
+48,realme,11,24999,Pro 5G Oasis Green,8,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+49,realme,11,23999,Pro 5G Astral Black,8,128.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+50,realme,11,29999,Pro+ 5G Sunrise Beige,12,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+51,realme,11,27999,Pro+ 5G Sunrise Beige,8,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+52,realme,Narzo,11288,N55 Prime Black,4,64.0,4.2,5000.0,2,64MP Rear,
+53,realme,11,23999,Pro 5G Oasis Green,8,128.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+54,realme,11,29999,Pro+ 5G Astral Black,12,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+55,realme,11,27999,Pro+ 5G Astral Black,8,256.0,4.3,5000.0,6.7,200MP (OIS) + 8MP + 2MP | 32MP Front,Dimensity 7050
+56,realme,11,23999,Pro 5G Sunrise Beige,8,128.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+57,realme,Narzo,20037,60 5g Cosmic Black,8,256.0,4.3,5000.0,3,64MP Rear,
+58,realme,11,27999,Pro 5G Sunrise Beige,12,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+59,realme,Narzo,17970,60 5G Mars Orange,8,128.0,4.3,5000.0,3,64MP Rear,
+60,realme,Narzo,17960,60 5G ?Cosmic Black,8,128.0,4.3,5000.0,3,64MP Rear,
+61,realme,Narzo,9899,N53 Feather Gold,4,64.0,4.2,5000.0,4,50MP Rear,
+62,realme,10,22999,Pro+ 5G Hyperspace,8,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+63,realme,Narzo,12900,N53 Feather Black,6,128.0,4.2,5000.0,4,50MP Rear,
+64,realme,10,21999,Pro+ 5G Nebula Blue,6,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+65,realme,10,21999,Pro+ 5G Hyperspace,6,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+66,realme,GT,24999,2 Steel Black,8,128.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+67,realme,Narzo,20090,60 5G Mars Orange,8,256.0,4.3,5000.0,3,64MP Rear,
+68,realme,GT,28999,2 Steel Black,12,256.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+69,realme,Narzo,12999,50 Speed Black,6,128.0,4.3,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Mediatek Helio G96
+70,realme,Narzo,11722,N53 Feather Gold,6,128.0,4.2,5000.0,4,50MP Rear,
+71,realme,Narzo,12950,50 Speed Black,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Mediatek Helio G96
+72,realme,9i,13499,Prism Blue,4,128.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+73,realme,C33,10499,2023 Night Sea,4,128.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+74,realme,9i,16999,5G Soulful Blue,6,128.0,4.3,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+75,realme,Narzo,12950,50 Speed Black,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Mediatek Helio G96
+76,realme,C33,9999,Aqua Blue,4,64.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+77,realme,C33,8999,Aqua Blue,3,32.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+78,realme,C33,10499,2023 Sandy Gold,4,128.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+79,realme,C33,10499,2023 Aqua Blue,4,128.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+80,realme,9i,14999,5G Soulful Blue,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+81,realme,C30s,7465,Royal Blue,2,32.0,4.4,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+82,realme,GT,25999,NEO 2 NEO Blue,12,256.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+83,realme,Narzo,8889,50i Prime Mint Green,4,64.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612 processor
+84,realme,9i,14999,5G Metallica Gold,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+85,realme,9i,14999,5G Rocking Black,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+86,realme,C30s,6999,Stripe Blue,2,32.0,4.4,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+87,realme,Narzo,8869,50i Prime Dark Blue,4,64.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612 processor
+88,realme,C30s,6999,Stripe Black,2,32.0,4.4,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+89,realme,9i,16999,5G Metallica Gold,6,128.0,4.3,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+90,realme,C33,9999,2023 Night Sea,4,64.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+91,realme,C33,9999,2023 Sandy Gold,4,64.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+92,realme,C30,6499,Bamboo Green,3,32.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612
+93,realme,C30,5999,Lake Blue,2,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612
+94,realme,C30,5999,Bamboo Green,2,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612
+95,realme,11,27999,Pro 5G Oasis Green,12,256.0,4.3,5000.0,6.7,100MP (OIS) + 2MP | 16MP Front,Dimensity 7050
+96,realme,GT,24999,2 Paper White,8,128.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+97,realme,GT,24999,2 Paper Green,8,128.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+98,realme,GT,28999,2 Paper Green,12,256.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+99,realme,GT,28999,2 Paper White,12,256.0,4.3,5000.0,2,50MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+100,realme,10,24999,Pro+ 5G Hyperspace,8,256.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+101,realme,10,24999,Pro+ 5G Dark Matter,8,256.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+102,realme,10,22999,Pro+ 5G Dark Matter,8,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+103,realme,10,22999,Pro+ 5G Nebula Blue,8,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+104,realme,10,24999,Pro+ 5G Nebula Blue,8,256.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+105,realme,10,21999,Pro+ 5G Dark Matter,6,128.0,4.4,5000.0,6.7,108MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 1080 5G
+106,realme,GT,21999,NEO 2 NEO Blue,8,128.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+107,realme,9i,13499,Prism Black,4,128.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+108,realme,C33,9999,Night Sea,4,64.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+109,realme,C33,9999,Sandy Gold,4,64.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+110,realme,C33,8999,Sandy Gold,3,32.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+111,realme,C33,8999,Night Sea,3,32.0,4.4,5000.0,6.5,50MP + 0.3MP | 5MP Front,Unisoc T612
+112,realme,9i,16999,5G Rocking Black,6,128.0,4.3,5000.0,6.6,50MP + 2MP + 2MP | 8MP Front,Mediatek Dimensity 810 5G
+113,realme,GT,25999,NEO 2 NEO Green,12,256.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+114,realme,GT,25999,NEO 2 NEO Black,12,256.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+115,realme,GT,21999,NEO 2 NEO Black,8,128.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+116,realme,GT,21999,NEO 2 NEO Green,8,128.0,4.4,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+117,realme,Narzo,11449,50A Prime Flash Blue,4,128.0,4.1,5000.0,6.6,50MP Rear,
+118,realme,9i,14499,Prism Blue,6,128.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+119,realme,9i,11999,Prism Blue,4,64.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+120,realme,Narzo,23937,60 pro 5G ?Cosmic Black,8,128.0,4.4,5000.0,6.7,100MP Rear,
+121,realme,Narzo,13790,50 Speed Blue,6,128.0,4.3,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Mediatek Helio G96
+122,realme,9,17999,5G SE Azure Glow,8,128.0,4.3,5000.0,6.6,48MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 778G
+123,realme,C11,7499,2021 Cool Blue,2,32.0,4.4,5000.0,6.5,8MP Rear,Octa-core
+124,realme,C11,7499,2021 Cool Grey,2,32.0,4.4,5000.0,6.5,8MP Rear,Octa-core
+125,realme,Narzo,8999,50i Carbon Black,4,64.0,4.3,5000.0,6.5,8MP Rear,SC9863A
+126,realme,XT,16599,Pearl White,4,64.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP Quad,Qualcomm 712
+127,realme,Narzo,7488,50i Mint Green,2,32.0,4.5,5000.0,6.5,8MP Rear,SC9863A
+128,realme,Narzo,7499,50i Carbon Black,2,32.0,4.5,5000.0,6.5,8MP Rear,SC9863A
+129,realme,C31,8049,Dark Green,3,32.0,4.5,5000.0,2,13MP + 2MP + 0.3MP | 5MP Front,Unisoc T612
+130,realme,3i,8550,Diamond Black,3,32.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P60 Octa Core 2.0 GHz
+131,realme,C30s,8499,Stripe Blue,4,64.0,4.2,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+132,realme,C31,8749,Dark Green,4,64.0,4.4,5000.0,2,13MP + 2MP + 0.3MP | 5MP Front,Unisoc T612
+133,realme,Narzo,23599,60 Pro 5G Mars orange,8,128.0,4.4,5000.0,6.7,100MP Rear,
+134,realme,Narzo,7989,50i Prime Dark Blue,3,32.0,4.2,5000.0,6.5,8MP Rear,
+135,realme,Narzo,8999,50i Mint Green,4,64.0,4.3,5000.0,6.5,8MP Rear,SC9863A
+136,realme,9,21989,5G SE Starry Glow,8,128.0,4.3,5000.0,6.6,48MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 778G
+137,realme,C31,8049,Light Silver,3,32.0,4.5,5000.0,2,13MP + 2MP + 0.3MP | 5MP Front,Unisoc T612
+138,realme,Narzo,32955,60 Pro 5G Mars Orange,12,,4.0,5000.0,6.7,100MP Rear,
+139,realme,Narzo,31880,60 Pro 5G Cosmic Black,12,,4.0,5000.0,6.7,100MP Rear,
+140,realme,Narzo,26900,60 Pro 5G Mars Orange,12,256.0,4.0,5000.0,6.7,100MP Rear,
+141,realme,Narzo,12499,50A Oxygen Blue,4,128.0,4.4,6000.0,6.5,50MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+142,realme,Narzo,11499,50A Oxygen Green,4,64.0,4.4,6000.0,6.5,50MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+143,realme,Narzo,12499,50A Oxygen Green,4,128.0,4.4,6000.0,6.5,50MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+144,realme,Narzo,26990,60 pro 5G Cosmic Black,12,256.0,4.0,5000.0,6.7,100MP Rear,
+145,realme,9,13999,5G Meteor Black,4,64.0,4.5,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+146,realme,C30s,8479,Stripe Black,4,64.0,4.2,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+147,realme,C11,8999,2021 Cool Blue,4,64.0,4.3,5000.0,6.5,8MP Rear,Octa-core
+148,realme,Narzo,12990,50A Prime Flash Blue,4,128.0,4.1,5000.0,6.6,50MP Rear,
+149,realme,Narzo,12290,50A Prime Flash Blue,4,64.0,4.1,5000.0,6.6,50MP Rear,
+150,realme,Narzo,12290,50A Prime Flash Black,4,64.0,4.1,5000.0,6.6,50MP Rear,
+151,realme,C25s,11998,Watery Grey,4,128.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+152,realme,Narzo,7990,50i Prime Dark Blue,3,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612 processor
+153,realme,Narzo,10488,N53 Feather Gold,4,64.0,4.2,5000.0,4,50MP Rear,
+154,realme,Narzo,11499,50A Oxygen Blue,4,64.0,4.4,6000.0,6.5,50MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+155,realme,Narzo,21990,50 Pro 5G Hyper Blue,8,128.0,4.1,5000.0,6.4,48MP Rear,Dimensity 920 5G
+156,realme,Narzo,14890,50 Speed Blue,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Mediatek Helio G96
+157,realme,GT,25999,5G Dashing Blue,8,128.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+158,realme,8i,11499,Space Purple,4,64.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,MediaTek Helio G96
+159,realme,C30s,8399,Night Black,4,64.0,4.2,5000.0,6.5,8MP Rear,Unisoc SC9863A/ Unisoc SC9863A1
+160,realme,X3,34999,SuperZoom Arctic White,12,256.0,4.2,4200.0,7,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+161,realme,8i,17999,Space Black,6,128.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,MediaTek Helio G96
+162,realme,Narzo,21999,30 Pro 5G Blade Silver,8,128.0,4.3,5000.0,6.5,48MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+163,realme,C21,9499,Cross Blue,3,32.0,4.4,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,MediaTek Helio G35
+164,realme,C21,10499,Cross Black,4,64.0,4.4,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,MediaTek Helio G35
+165,realme,C25Y,12999,Metal Grey,4,64.0,4.4,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T610 Octa Core
+166,realme,GT,25999,5G Dashing Silver,8,128.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+167,realme,narzo,8999,50i Prime Mint Green,3,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc Tiger T612 (12 nm)
+168,realme,X2,21825,Pro Neptune Blue,8,128.0,4.5,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+169,realme,narzo,8999,50i Prime Mint Green,3,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc Tiger T612 (12 nm)
+170,realme,C21Y,7499,Cross Blue,3,32.0,4.6,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,Unisoc T610
+171,realme,C21Y,7499,Cross Black,3,32.0,4.6,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,Unisoc T610
+172,realme,C21Y,8499,Cross Black,4,64.0,4.5,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,Unisoc T610
+173,realme,GT,29999,5G Racing Yellow,12,256.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 888
+174,realme,Narzo,21999,30 Pro 5G Blade Silver,8,128.0,4.3,5000.0,6.5,48MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+175,realme,9i,14499,Prism Black,4,64.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+176,realme,GT,26999,Neo 3 Sprint White,8,128.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+177,realme,2,13299,Pro Blue Ocean,6,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+178,realme,2,13990,Pro Black Sea,4,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+179,realme,C31,8749,Light Silver,4,64.0,4.4,5000.0,2,13MP + 2MP + 0.3MP | 5MP Front,Unisoc T612
+180,realme,GT,28999,Neo 3 Nitro Blue,8,256.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+181,realme,GT,28999,Neo 3 Sprint White,8,256.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+182,realme,C25,10999,Grey,4,64.0,4.5,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T618
+183,realme,C25Y,12999,Metal Grey,4,64.0,4.4,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T610 Octa Core
+184,realme,C25Y,8999,Glacier Blue,4,64.0,4.4,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T610 Octa Core
+185,realme,GT,26999,Neo 3 Asphalt Black,8,128.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+186,realme,8,15499,Cyber Black,8,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+187,realme,9i,11999,Prism Blue,4,64.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 680 (SM6225)
+188,realme,3i,10499,Diamond Red,4,64.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P60 Octa Core 2.0 GHz
+189,realme,3i,8199,Diamond Blue,3,32.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P60 Octa Core 2.0 GHz
+190,realme,3i,10499,Diamond Blue,4,64.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P60 Octa Core 2.0 GHz
+191,realme,3i,10499,Diamond Black,4,64.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P60 Octa Core 2.0 GHz
+192,Realme,C30,5549,- Locked with Airtel Prepaid Lake Blue,2,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612
+193,realme,9,14999,5G SE Starry Glow,6,128.0,4.4,5000.0,6.6,48MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 778G
+194,realme,9,14999,5G SE Azure Glow,6,128.0,4.4,5000.0,6.6,48MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 778G
+195,realme,9,15499,5G Stargaze White,6,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+196,realme,XT,19980,Pearl Blue,8,128.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP Quad,Qualcomm 712
+197,realme,Narzo,12499,50A Prime Flash Black,4,128.0,4.1,5000.0,6.6,50MP Rear,
+198,realme,C25s,9261,Watery Blue,4,128.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+199,Realme,C30,5549,- Locked with Airtel Prepaid Denim Black,2,32.0,4.2,5000.0,6.5,8MP Rear,Unisoc T612
+200,Realme,C30,6049,- Locked with Airtel Prepaid Denim Black,3,32.0,4.1,5000.0,6.5,8MP Rear,Unisoc T612
+201,realme,9,15499,5G Meteor Black,6,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+202,realme,6,13999,Pro Lightning Orange,6,64.0,4.4,4300.0,6.6,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Snapdragon 720G
+203,realme,9,13999,5G Supersonic Blue,4,64.0,4.5,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+204,realme,9,15499,5G Supersonic Black,6,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+205,realme,9,15499,5G Supersonic Blue,6,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+206,realme,9,13999,5G Supersonic Black,4,64.0,4.5,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+207,realme,9,13999,5G Stargaze White,4,64.0,4.5,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,Mediatek Dimensity 810
+208,realme,Narzo,19490,50 Pro 5G Hyper Blue,6,128.0,4.3,5000.0,6.4,48MP Rear,Dimensity 920 5G
+209,realme,Narzo,12399,50A Prime Flash Blue,4,128.0,4.1,5000.0,6.6,50MP Rear,
+210,realme,8i,17888,Space Purple,6,128.0,4.4,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,MediaTek Helio G96
+211,realme,8i,11499,Space Black,4,64.0,4.5,5000.0,6.6,50MP + 2MP + 2MP | 16MP Front,MediaTek Helio G96
+212,realme,C21Y,8499,Cross Blue,4,64.0,4.5,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,Unisoc T610
+213,realme,C15,12999,Power Blue,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+214,realme,C15,12999,Power Silver,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+215,realme,X2,26899,Pro Lunar White,12,256.0,4.6,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+216,realme,9,17999,Stargaze White,8,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+217,realme,X50,41999,Pro Rust Red,8,128.0,4.4,4200.0,4,64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 865
+218,realme,C21Y,8499,Cross Blue,4,64.0,4.5,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,Unisoc T610
+219,realme,X2,26899,Pro Lunar White,12,256.0,4.6,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+220,realme,9,16999,Meteor Black,6,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+221,realme,C15,12999,Power Blue,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+222,realme,C15,12999,Power Silver,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+223,realme,9,17999,Meteor Black,8,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+224,realme,X7,19999,5G Space Silver,6,128.0,4.3,4310.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+225,realme,9,17999,Sunburst Gold,8,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+226,realme,2,9290,Diamond Black,3,32.0,4.5,4230.0,6.2,13MP + 2MP | 8MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+227,realme,C25s,10309,Watery Grey,4,64.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G85
+228,realme,Narzo,11999,50A Prime Flash Black,4,128.0,4.1,5000.0,6.6,50MP Rear,
+229,realme,Narzo,15999,30 Pro 5G Sword Black,8,128.0,4.3,5000.0,6.5,48MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+230,realme,8,18499,5G Supersonic Blue,8,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+231,realme,8,16499,5G Supersonic Blue,4,128.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+232,realme,8,16499,5G Supersonic Black,4,128.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+233,realme,8,15499,5G Supersonic Black,4,64.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+234,realme,8,15499,5G Supersonic Blue,4,64.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+235,realme,C35,9699,Glowing Green,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+236,realme,C35,11699,Glowing Black,6,128.0,4.2,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+237,realme,C35,9699,Glowing Black,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+238,realme,C35,10699,Glowing Green,4,128.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+239,realme,C35,10699,Glowing Black,4,128.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+240,realme,C35,10699,Glowing Green,4,128.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+241,realme,C35,10699,Glowing Black,4,128.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+242,realme,C35,9699,Glowing Black,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+243,realme,C35,9699,Glowing Green,4,64.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+244,realme,7,20999,Mist White,8,128.0,4.3,5000.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+245,realme,GT,26999,Neo 3 Sprint White,8,128.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+246,realme,Narzo,13499,50A Prime Flash Black,4,64.0,4.1,5000.0,6.6,50MP Rear,
+247,realme,GT,28999,Neo 3 Nitro Blue,8,256.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+248,realme,C21,10290,Cross Blue,4,64.0,4.4,5000.0,6.5,13MP + 2MP + 2MP | 5MP Front,MediaTek Helio G35
+249,realme,C11,7999,2021 Cool Grey,4,64.0,4.3,5000.0,6.5,8MP Rear,Octa-core
+250,realme,narzo,17199,50 5G Hyper Blue,6,128.0,4.3,5000.0,6.6,48MP Rear,
+251,realme,narzo,16455,50 5G Hyper Black,4,128.0,4.3,5000.0,6.6,48MP Rear,
+252,realme,narzo,14999,50 5G Hyper Black,4,64.0,4.3,5000.0,6.6,48MP Rear,
+253,realme,8,15499,Cyber Black,8,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+254,realme,8,13499,Cyber Silver,4,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+255,realme,8,13499,Cyber Black,4,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+256,realme,GT,26999,Neo 3 Asphalt Black,8,128.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+257,realme,Narzo,9999,30A Laser Black,4,64.0,4.4,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+258,realme,9,22999,Pro+ 5G Aurora Green,8,256.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+259,realme,9,22999,Pro+ 5G Sunrise Blue,8,256.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+260,realme,Narzo,9999,30A Laser Blue,4,64.0,4.4,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+261,realme,9,20999,Pro+ 5G Sunrise Blue,8,128.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+262,realme,Narzo,8999,30A Laser Blue,3,32.0,4.3,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+263,realme,9,18999,Pro+ 5G Sunrise Blue,6,128.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+264,realme,5s,12999,Crystal Red,4,128.0,4.5,5000.0,6.5,48MP + 8MP + 2MP + 2MP | 13MP Front,Qualcomm Snapdragon 665
+265,realme,5s,10999,Crystal Blue,4,64.0,4.5,5000.0,6.5,48MP + 8MP + 2MP + 2MP | 13MP Front,Qualcomm Snapdragon 665
+266,realme,8,14499,Cyber Silver,6,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+267,realme,GT,26999,Neo 3 Asphalt Black,8,128.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+268,realme,C35,10699,Glowing Green,4,128.0,4.4,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+269,realme,Narzo,11499,50A Prime Flash Black,4,128.0,4.1,5000.0,6.6,50MP Rear,
+270,realme,C20,7499,Cool Grey,2,32.0,4.4,5000.0,6.5,8MP Rear,MediaTek Helio G35
+271,realme,8,14499,Cyber Black,6,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+272,realme,C25,11999,Blue,4,64.0,4.5,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T618
+273,realme,C25,11000,Grey,4,128.0,4.5,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T618
+274,realme,Narzo,12999,30 Pro 5G Sword Black,6,64.0,4.3,5000.0,6.5,48MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+275,realme,Narzo,9999,30A Laser Blue,4,64.0,4.4,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+276,realme,2,15990,Pro Black Sea,8,128.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+277,realme,Narzo,9999,30A Laser Black,4,64.0,4.4,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+278,realme,9,22999,Pro+ 5G Sunrise Blue,8,256.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+279,realme,9,18999,Pro+ 5G Sunrise Blue,6,128.0,4.4,4500.0,6.4,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 920
+280,realme,Narzo,8999,30A Laser Blue,3,32.0,4.3,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+281,realme,C20,7499,Cool Blue,2,32.0,4.4,5000.0,6.5,8MP Rear,MediaTek Helio G35
+282,realme,8,15499,Cyber Silver,8,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+283,realme,X2,24990,Pro Lunar White,6,64.0,4.5,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+284,realme,X7,21999,5G Nebula,8,128.0,4.3,4310.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+285,realme,GT,38999,Neo 3T Shade Black,8,256.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+286,realme,8,13499,Punk Black,4,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+287,realme,X7,19999,5G Nebula,6,128.0,4.3,4310.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+288,realme,9,20999,Pro 5G Midnight Black,8,128.0,4.3,5000.0,6.6,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 695
+289,realme,2,13299,Pro Blue Ocean,6,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+290,realme,9,18999,Pro 5G Aurora Green,6,128.0,4.4,5000.0,6.6,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 695
+291,realme,9,18999,Pro 5G Sunrise Blue,6,128.0,4.4,5000.0,6.6,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 695
+292,realme,9,18999,Pro 5G Midnight Black,6,128.0,4.4,5000.0,6.6,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 695
+293,realme,2,13990,Pro Ice Lake,6,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+294,realme,2,13990,Pro Ice Lake,4,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+295,realme,2,13990,Pro Black Sea,4,64.0,4.5,3500.0,6.3,16MP + 2MP | 16MP Front,Qualcomm Snapdragon 660 Octa Core 1.95GHz AIE
+296,realme,GT,38999,Neo 3T Shade Black,8,256.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+297,realme,X2,24990,Pro Lunar White,6,64.0,4.5,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+298,realme,GT,57999,2 Pro Steel Black,12,256.0,4.4,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+299,realme,GT,49999,2 Pro Paper White,8,128.0,4.2,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+300,realme,GT,32999,NEO 3 150W Sprint White,12,256.0,4.3,4500.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+301,realme,8,14499,Cyber Black,6,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+302,realme,6,15999,Comet Blue,6,128.0,4.4,4300.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+303,realme,GT,36999,Neo 3T Drifting White,8,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+304,realme,GT,34999,Neo 3T Drifting White,6,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+305,realme,GT,34999,Neo 3T Shade Black,6,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+306,realme,GT,34999,Neo 3T Dash Yellow,6,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+307,realme,GT,25999,Master Edition Luna White,8,256.0,4.3,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+308,realme,8,15499,Cyber Silver,8,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+309,realme,8,13499,Punk Black,4,128.0,4.4,5000.0,6.4,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+310,realme,5s,12999,Crystal Blue,4,128.0,4.5,5000.0,6.5,48MP + 8MP + 2MP + 2MP | 13MP Front,Qualcomm Snapdragon 665
+311,realme,GT,36999,Neo 3T Shade Black,8,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+312,realme,GT,25999,Master Edition Voyager Grey,8,256.0,4.3,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+313,realme,GT,25999,Master Edition Cosmos Black,8,256.0,4.3,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+314,realme,GT,23999,Master Edition Cosmos Black,8,128.0,4.3,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+315,realme,GT,21999,Master Edition Voyager Grey,6,128.0,4.4,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+316,realme,2,10990,Diamond Black,4,64.0,4.5,4230.0,6.2,13MP + 2MP | 8MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+317,realme,X3,23990,SuperZoom Arctic White,8,256.0,4.3,4200.0,7,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+318,realme,X3,24490,SuperZoom Glacier Blue,12,256.0,4.2,4200.0,7,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+319,realme,X3,23990,SuperZoom Arctic White,8,128.0,4.3,4200.0,7,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+320,realme,X3,23990,SuperZoom Glacier Blue,8,256.0,4.3,4200.0,7,64MP + 8MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+321,realme,Narzo,12999,30 Racing Silver,6,128.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+322,realme,GT,20999,Master Edition Luna White,6,128.0,4.4,4300.0,3,64MP + 8MP + 2MP | 32MP Front,Qualcomm Snapdragon 778G
+323,realme,GT,32999,NEO 3 150W Asphalt Black,12,256.0,4.3,4500.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+324,realme,C25,10999,Watery Blue,4,128.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+325,realme,C25,10999,Watery Grey,4,128.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+326,realme,C25,9999,Watery Grey,4,64.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+327,realme,GT,32999,NEO 3 150W Nitro Blue,12,256.0,4.3,4500.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+328,realme,C11,8999,Rich Green,2,32.0,4.4,5000.0,6.5,13MP + 2MP | 5MP Front,Mediatek Helio G35
+329,realme,GT,34999,Neo 3T Drifting White,6,128.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+330,realme,X2,24990,Pro Lunar White,8,128.0,4.5,4000.0,6.5,64MP + 13MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 855 Plus
+331,realme,X3,19990,Glacier Blue,8,128.0,4.4,4200.0,7,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+332,realme,C25,9999,Watery Blue,4,64.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+333,realme,Narzo,9490,30A Laser Black,3,32.0,4.3,6000.0,1,13MP + 2MP | 8MP Front,MediaTek Helio G85
+334,realme,C15,9993,Power Blue,3,32.0,4.3,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+335,realme,9,18490,Sunburst Gold,6,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+336,realme,C25,10999,Watery Blue,4,128.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+337,realme,C25,9999,Watery Grey,4,64.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+338,realme,GT,32999,NEO 3 150W Nitro Blue,12,256.0,4.3,4500.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+339,realme,GT,57999,2 Pro Paper Green,12,256.0,4.4,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+340,realme,X3,19990,Glacier Blue,8,128.0,4.4,4200.0,7,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Qualcomm Snapdragon 855+
+341,realme,C25,9999,Watery Blue,4,64.0,4.4,6000.0,6.5,13MP + 2MP + 2MP | 8MP Front,MediaTek Helio G70
+342,realme,C15,9993,Power Blue,3,32.0,4.3,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+343,realme,GT,38999,Neo 3T Drifting White,8,256.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+344,realme,GT,38999,Neo 3T Dash Yellow,8,256.0,4.3,5000.0,2,64MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 870
+345,realme,C15,9790,Power Silver,3,32.0,4.3,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Mediatek Helio G35
+346,realme,2,10990,Diamond Black,4,64.0,4.5,4230.0,6.2,13MP + 2MP | 8MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+347,realme,C15,12999,Qualcomm Edition Power Silver,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 460
+348,realme,C12,10999,Power Blue,3,32.0,4.4,6000.0,2,13MP + 2MP + 2MP | 5MP Front,Mediatek Helio G35
+349,realme,C15,11999,Qualcomm Edition Power Silver,3,32.0,4.3,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 460
+350,realme,10,18999,Pro 5G Coca Cola Edition Black and Red,8,128.0,4.5,5000.0,2,108MP + 2MP | 16MP Front,Qualcomm Snapdragon 695 5G
+351,realme,C2,6999,Diamond Blue,2,16.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+352,realme,C15,12999,Qualcomm Edition Power Blue,4,64.0,4.4,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 460
+353,realme,C15,11999,Qualcomm Edition Power Blue,3,32.0,4.3,6000.0,2,13MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 460
+354,realme,C2,6998,Diamond Black,2,16.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+355,realme,C12,10999,Power Blue,4,64.0,4.4,6000.0,2,13MP + 2MP + 2MP | 5MP Front,Mediatek Helio G35
+356,realme,C12,9999,Power Silver,4,64.0,4.4,6000.0,2,13MP + 2MP + 2MP | 5MP Front,Mediatek Helio G35
+357,realme,Narzo,21999,50 Pro 5G Hyper Black,8,128.0,4.1,5000.0,6.4,48MP Rear,Dimensity 920 5G
+358,realme,6,12999,Pro Lightning Blue,6,64.0,4.4,4300.0,6.6,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Snapdragon 720G
+359,realme,X7,23999,5G Space Silver,8,128.0,4.3,4310.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 800U
+360,realme,C12,10999,Power Silver,3,32.0,4.4,6000.0,2,13MP + 2MP + 2MP | 5MP Front,Mediatek Helio G35
+361,realme,6,18900,Pro Lightning Blue,6,128.0,4.4,4300.0,6.6,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Snapdragon 720G
+362,realme,C1,8990,Mirror Black,2,16.0,4.4,4230.0,6.2,13MP + 2MP | 5MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+363,realme,C1,8990,Navy Blue,2,16.0,4.4,4230.0,6.2,13MP + 2MP | 5MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+364,realme,8,17490,5G Supersonic Black,8,128.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+365,realme,6,19999,Pro Lightning Blue,8,128.0,4.5,4300.0,6.6,64MP + 12MP + 8MP + 2MP | 16MP + 8MP Dual Front,Snapdragon 720G
+366,realme,9,18490,Sunburst Gold,6,128.0,4.4,5000.0,6.4,108MP + 8MP + 2MP | 16MP Front,Qualcomm Snapdragon 680
+367,realme,Narzo,10999,30 Racing Blue,4,64.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+368,realme,5,12999,Crystal Purple,4,128.0,4.4,,6.5,12MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon 665 2 GHz
+369,realme,5,11999,Crystal Blue,4,64.0,4.4,,6.5,12MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon 665 2 GHz
+370,realme,5,11999,Crystal Purple,4,64.0,4.4,,6.5,12MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon 665 2 GHz
+371,realme,5,10999,Crystal Blue,3,32.0,4.5,,6.5,12MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon 665 2 GHz
+372,realme,5,10499,Crystal Purple,3,32.0,4.5,,6.5,12MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon 665 2 GHz
+373,realme,C1,8999,Mirror Black,2,32.0,4.4,4230.0,6.2,13MP + 2MP | 5MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+374,realme,C25,11999,Blue,4,128.0,4.5,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T618
+375,realme,GT,32999,Neo 3 150W - Thor Limited Edition Nitro Blue,12,256.0,4.2,4500.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+376,realme,X50,34990,Pro Moss Green,12,256.0,4.4,4200.0,4,64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 865
+377,realme,C35,11699,Glowing Green,6,128.0,4.2,5000.0,6.6,50MP + 2MP + 0.3MP | 8MP Front,Unisoc Tiger T616
+378,realme,Narzo,9499,10A So White,4,64.0,4.5,5000.0,2,12MP + 2MP + 2MP | 5MP Front,MediaTek Helio G70 (12 nm)
+379,realme,5i,11999,Aqua Blue,4,128.0,4.5,5000.0,2,12MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665 (2 GHz)
+380,realme,5i,10999,Forest Green,4,64.0,4.5,5000.0,2,12MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665 2 GHz
+381,realme,5i,10999,Aqua Blue,4,64.0,4.5,5000.0,2,12MP + 8MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665 2 GHz
+382,realme,7i,11849,Fusion Blue,4,64.0,4.3,5000.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 662
+383,realme,7i,11849,Fusion Green,4,64.0,4.3,5000.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 662
+384,realme,Narzo,16999,30 5G Racing Silver,6,128.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+385,realme,C25Y,13999,Metal Grey,4,128.0,4.4,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T610 Octa Core
+386,realme,narzo,17490,50 5G Hyper Black,6,128.0,4.3,5000.0,6.6,48MP Rear,
+387,realme,Narzo,10499,20 Victory Blue,4,64.0,4.3,6000.0,2,48MP + 8MP + 2MP | 8MP Front,MediaTek Helio G85
+388,realme,narzo,15380,50 5G Hyper Blue,4,128.0,4.3,5000.0,6.6,48MP Rear,
+389,realme,C25Y,13999,Glacier Blue,4,128.0,4.4,5000.0,6.5,50MP + 2MP + 2MP | 8MP Front,Unisoc T610 Octa Core
+390,realme,6,16999,Comet Blue,8,128.0,4.4,4300.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+391,realme,C12,10490,Power Silver,3,32.0,4.4,6000.0,2,13MP + 2MP + 2MP | 5MP Front,Mediatek Helio G35
+392,realme,X2,18999,Pearl White,8,128.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 730G
+393,realme,X2,18999,Pearl Green,8,128.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 730G
+394,realme,X2,17999,Pearl White,6,128.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 730G
+395,realme,X2,15999,Pearl White,4,64.0,4.5,4000.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 730G
+396,realme,GT,28999,Neo 3 Asphalt Black,8,256.0,4.1,5000.0,6.7,50MP + 8MP + 2MP | 16MP Front,Mediatek Dimensity 8100
+397,realme,X50,47999,Pro 5G Rust Red,12,256.0,4.3,4200.0,4,64MP + 12MP + 8MP + 2MP | 32MP + 8MP Dual Front,Qualcomm Snapdragon 865
+398,realme,C3,7499,Frozen Blue,3,32.0,4.4,5000.0,2,12MP + 2MP | 5MP Front,Helio G70
+399,realme,Narzo,16999,30 5G Racing Blue,6,128.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+400,realme,Narzo,11499,20 Victory Blue,4,128.0,4.3,6000.0,2,48MP + 8MP + 2MP | 8MP Front,MediaTek Helio G85
+401,realme,Narzo,11499,20 Glory Silver,4,128.0,4.3,6000.0,2,48MP + 8MP + 2MP | 8MP Front,MediaTek Helio G85
+402,realme,Narzo,10499,20 Glory Silver,4,64.0,4.3,6000.0,2,48MP + 8MP + 2MP | 8MP Front,MediaTek Helio G85
+403,realme,C11,8999,Rich Grey,2,32.0,4.4,5000.0,6.5,13MP + 2MP | 5MP Front,Mediatek Helio G35
+404,realme,8s,17999,5G Universe Blue,6,128.0,4.4,5000.0,6.5,64MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 810 5G
+405,realme,Narzo,11999,20A Glory Silver,4,64.0,4.4,5000.0,6.5,12MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665
+406,realme,Narzo,11999,20A Victory Blue,4,64.0,4.4,5000.0,6.5,12MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665
+407,realme,Narzo,10999,20A Victory Blue,3,32.0,4.3,5000.0,6.5,12MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665
+408,realme,Narzo,10999,20A Glory Silver,3,32.0,4.3,5000.0,6.5,12MP + 2MP + 2MP | 8MP Front,Qualcomm Snapdragon 665
+409,realme,C3,8999,Blazing Red,4,64.0,4.4,5000.0,2,12MP + 2MP | 5MP Front,Helio G70
+410,realme,C3,8999,Volcano Grey,3,32.0,4.4,5000.0,2,12MP + 2MP | 5MP Front,Helio G70
+411,realme,C3,8999,Frozen Blue,4,64.0,4.4,5000.0,2,12MP + 2MP | 5MP Front,Helio G70
+412,realme,Narzo,14999,30 5G Racing Silver,4,64.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+413,realme,Narzo,14999,30 5G Racing Blue,4,64.0,4.3,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 700 (MT6833)
+414,realme,7,21999,Pro Mirror Silver,8,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+415,realme,7,21999,Pro Sun Kissed Leather,8,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+416,realme,6,13999,Comet White,4,64.0,4.4,4300.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+417,realme,6,17799,Comet White,6,64.0,4.4,4300.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+418,realme,6,15499,Comet Blue,6,64.0,4.4,4300.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+419,realme,7,21999,Pro Mirror Blue,8,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+420,realme,7,19999,Pro Mirror Blue,6,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+421,realme,7,19999,Pro Sun Kissed Leather,6,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+422,realme,7,19999,Pro Mirror Silver,6,128.0,4.4,4500.0,6.4,64MP + 8MP + 2MP + 2MP | 32MP Front,Qualcomm Snapdragon 720G
+423,realme,8s,19980,5G Universe Purple,8,128.0,4.4,5000.0,6.5,64MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 810 5G
+424,realme,5,17999,Pro Sparkling Blue,8,128.0,4.5,4035.0,6.3,48MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz
+425,realme,5,15999,Pro Crystal Green,6,64.0,4.5,4035.0,6.3,48MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz
+426,realme,5,15999,Pro Sparkling Blue,6,64.0,4.5,4035.0,6.3,48MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz
+427,realme,5,14999,Pro Crystal Green,4,64.0,4.5,4035.0,6.3,48MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz
+428,realme,5,14999,Pro Sparkling Blue,4,64.0,4.5,4035.0,6.3,48MP + 8MP + 2MP + 2MP Quad,Qualcomm Snapdragon SDM712 Octa Core 2.3 GHz
+429,realme,8s,19999,5G Universe Blue,8,128.0,4.4,5000.0,6.5,64MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 810 5G
+430,realme,Narzo,10999,30 Racing Blue,4,64.0,4.4,5000.0,6.5,48MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+431,realme,Narzo,14999,20 Pro White Knight,6,64.0,4.4,4500.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+432,realme,3,9499,Dynamic Black,3,64.0,4.5,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P70 Octa Core 2.1 GHz AI
+433,realme,3,9499,Radiant Blue,3,64.0,4.5,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P70 Octa Core 2.1 GHz AI
+434,realme,3,8499,Dynamic Black,3,32.0,4.5,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P70 Octa Core 2.1 GHz AI
+435,realme,3,8499,Radiant Blue,3,32.0,4.5,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P70 Octa Core 2.1 GHz AI
+436,realme,Narzo,20990,50 Pro 5G Hyper Black,6,128.0,4.3,5000.0,6.4,48MP Rear,Dimensity 920 5G
+437,realme,Narzo,16999,20 Pro White Knight,8,128.0,4.3,4500.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+438,realme,Narzo,14999,20 Pro Black Ninja,6,64.0,4.4,4500.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+439,realme,3,10499,Radiant Blue,4,64.0,4.4,4230.0,2,13MP + 2MP | 13MP Front,MediaTek Helio P70 Octa Core 2.1 GHz AI
+440,realme,X7,29999,Max Mercury Silver,12,256.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+441,realme,X7,26999,Max Asteroid Black,8,128.0,4.4,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+442,realme,X7,26999,Max Mercury Silver,8,128.0,4.4,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+443,realme,C1,9999,Mirror Black,3,32.0,4.4,4230.0,6.2,13MP + 2MP | 5MP Front,Qualcomm Snapdragon 450 Octa Core 1.8 GHz
+444,realme,7,17490,Mist White,6,64.0,4.4,5000.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+445,realme,narzo,16490,50 5G Hyper Blue,4,64.0,4.3,5000.0,6.6,48MP Rear,
+446,realme,3,13999,Pro Nitro Blue,4,64.0,4.5,4045.0,6.3,16MP + 5MP | 25MP Front,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE
+447,realme,X7,29999,Max Asteroid Black,12,256.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+448,realme,X7,26999,Max Milky Way,8,128.0,4.4,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+449,realme,8,19999,Pro Infinite Black,8,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+450,realme,Narzo,11999,10 That White,4,128.0,4.5,5000.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G80 (12 nm)
+451,realme,Narzo,11999,10 That Blue,4,128.0,4.5,5000.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G80 (12 nm)
+452,realme,6i,14049,Eclipse Black,6,64.0,4.4,4300.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+453,realme,6i,14999,Eclipse Black,4,64.0,4.4,4300.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+454,realme,6i,14999,Lunar White,4,64.0,4.4,4300.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+455,realme,6i,14049,Lunar White,6,64.0,4.4,4300.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G90T
+456,realme,GT,57999,2 Pro Paper White,12,256.0,4.4,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+457,realme,GT,49999,2 Pro Paper Green,8,128.0,4.2,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+458,realme,GT,49999,2 Pro Steel Black,8,128.0,4.2,5000.0,6.7,50MP + 50MP + 2MP | 32MP Front,Qualcomm Snapdragon 8 Gen 1 Mobile Platform
+459,realme,8,19999,Pro Infinite Black,8,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+460,realme,8,17999,Pro Infinite Black,6,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+461,realme,X,20999,Polar White,8,128.0,4.5,3765.0,3,48MP + 5MP | 16MP Front,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE
+462,realme,X,20999,Space Blue,8,128.0,4.5,3765.0,3,48MP + 5MP | 16MP Front,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE
+463,realme,X,17999,Polar White,4,128.0,4.5,3765.0,3,48MP + 5MP | 16MP Front,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE
+464,realme,X,17999,Space Blue,4,128.0,4.5,3765.0,3,48MP + 5MP | 16MP Front,Qualcomm Snapdragon 710 Octa Core 2.2 GHz AIE
+465,realme,8,19999,Pro Illuminating Yellow,8,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+466,realme,8,19999,Pro Infinite Blue,8,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+467,realme,8,17999,Pro Illuminating Yellow,6,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+468,realme,8,17999,Pro Infinite Blue,6,128.0,4.4,4500.0,6.4,108MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 720G
+469,realme,7i,14249,Fusion Blue,4,128.0,4.3,5000.0,6.5,64MP + 8MP + 2MP + 2MP | 16MP Front,Qualcomm Snapdragon 662
+470,realme,C2,7999,Diamond Blue,2,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+471,realme,8s,17999,5G Universe Purple,6,128.0,4.4,5000.0,6.5,64MP + 2MP + 2MP | 16MP Front,MediaTek Dimensity 810 5G
+472,realme,Narzo,16999,20 Pro Black Ninja,8,128.0,4.3,4500.0,6.5,48MP + 8MP + 2MP + 2MP | 16MP Front,MediaTek Helio G95
+473,realme,X7,29999,Max Milky Way,12,256.0,4.3,4500.0,3,64MP + 8MP + 2MP | 16MP Front,MediaTek Dimensity 1200
+474,realme,C2,6499,Diamond Black,2,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+475,realme,C2,8999,Diamond Ruby,3,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+476,realme,C2,8999,Diamond Black,3,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+477,realme,C2,8999,Diamond Sapphire,3,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
+478,realme,C2,8490,Diamond Blue,3,32.0,4.4,4000.0,6.1,13MP + 2MP | 5MP Front,MediaTek P22 Octa Core 2.0 GHz
